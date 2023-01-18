@@ -1,6 +1,6 @@
 from turtle import Turtle, Screen
 
-#this code block itemizes the
+#this code block starts the Screen and Turtle files
 
 screen = Screen()
 turtle = Turtle()
@@ -18,6 +18,10 @@ turtle.speed(.5)
 #function for how many turns to have
 amount_of_turns = 100
 turtle.goto(0,0)
+
+
+# I do not use for loops because this file is used for training people on how to do for loops: NB
+
 
 #start of circles
 for amount in range(0,amount_of_turns):
