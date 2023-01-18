@@ -8,11 +8,11 @@ turtle = Turtle()
 
 #this code block sets up the screen
 screen.setup(width=600, height=600)
-screen.bgcolor('black')
+screen.bgcolor('white')
 screen.title("The 3 Rings")
 
 #this code block creates the turtle and has it draw
-turtle.color('white')
+turtle.color('black')
 turtle.pendown()
 turtle.speed(.5)
 #function for how many turns to have
