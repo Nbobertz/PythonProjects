@@ -1,0 +1,1 @@
+The purpose of this .py file is to show probability in Python. Load up the main file and tell the console how many squares to see a vvisualisation on random probability of squares being overwritten.
