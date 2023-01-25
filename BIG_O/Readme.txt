@@ -1,0 +1,1 @@
+This quick program is to demonstrate BigO and how it impacts programs at scale.
